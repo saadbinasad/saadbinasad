@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saadasad11
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java scripting
+- 💞️ I’m looking to collaborate on web-development
 - 📫 How to reach me sa1772477@gmail.com
 
 <!---
